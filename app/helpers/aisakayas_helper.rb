@@ -1,0 +1,2 @@
+module AisakayasHelper
+end
